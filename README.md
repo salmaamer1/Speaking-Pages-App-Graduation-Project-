@@ -1,11 +1,11 @@
-**NOTE**
+**NOTE:**
 The Demo of this projct  is in releases and code will be released soon. 
 # Speaking Pages App
 An online community for readers and books using AI.
 Our innovative platform transforms the way you read, connect, and enjoy books. With our 
 multifaceted platform, you can access a variety of features such as exploring and joining book clubs, 
 tracking your reading progress, and listening to audiobooks.
-User-friendly website or application
+User-friendly website or application.
 ## Objectives
 Facilitate book reading for visually impaired individuals through audiobooks.
 User-friendly website or application.
@@ -32,7 +32,7 @@ Programming Languages
 • Kotlin
 • Python
 • JavaScript
-Technologies
+,Technologies
 • Android Studio
 • ML, DL, NLP
 • MySQL server
@@ -45,7 +45,8 @@ and image loading respectively. Incorporated Stripe Payment Sheet and Socket.IO 
 payments and real-time communication. Utilized Google Maps APIs for location-based 
 features and implemented text-to-speech (TTS) model integration using PDF viewer and MP3 
 media player.
-
+##  Demo Website
+[link](https://drive.google.com/file/d/1a4t505RqH322_RBUmgNSOpM8-EeT0sfI/view)
 
 
 
