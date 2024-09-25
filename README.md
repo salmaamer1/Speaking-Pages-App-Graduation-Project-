@@ -45,9 +45,11 @@ features and implemented text-to-speech (TTS) model integration using PDF viewer
 media player.
 ##  Demo  App
 [link](https://drive.google.com/file/d/1HSEzI0zNYZW1C06MAOEclHGzoJ-9IP2u/view)
+ ,The code will be released soon. 
+
 ##  Demo Website
 [link](https://drive.google.com/file/d/1a4t505RqH322_RBUmgNSOpM8-EeT0sfI/view)
- The code will be released soon. 
+ ,The code will be released soon. 
 
 
 
