@@ -1,5 +1,3 @@
-**NOTE:**
-The Demo of this projct  is in releases and code will be released soon. 
 # Speaking Pages App
 An online community for readers and books using AI.
 Our innovative platform transforms the way you read, connect, and enjoy books. With our 
@@ -45,8 +43,11 @@ and image loading respectively. Incorporated Stripe Payment Sheet and Socket.IO 
 payments and real-time communication. Utilized Google Maps APIs for location-based 
 features and implemented text-to-speech (TTS) model integration using PDF viewer and MP3 
 media player.
+##  Demo  App
+[link](https://drive.google.com/file/d/1HSEzI0zNYZW1C06MAOEclHGzoJ-9IP2u/view)
 ##  Demo Website
 [link](https://drive.google.com/file/d/1a4t505RqH322_RBUmgNSOpM8-EeT0sfI/view)
+ The code will be released soon. 
 
 
 
